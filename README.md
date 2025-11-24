@@ -23,8 +23,8 @@ Desarrollador full-stack en formación, especializado en el diseño e implementa
 
 ## 📂 Repositorios destacados
 
-- [Tienda-HSN-React-and-Angular](https://github.com/victorgm0502-del/Tienda-HSN-React-and-Angular)  
-  Aplicación web para gestión de direcciones con autenticación JWT, backend en Node.js y frontend en Angular. Incluye lógica de negocio defendible y control de errores realista.
+- [Tienda-HSN-React-and-Node](https://github.com/Mugicat05/Tienda-HSN-React-and-Node)  
+  Aplicación web para gestión de direcciones con autenticación JWT, backend en Node.js y frontend en React. Incluye lógica de negocio defendible, persistencia con MongoDB y control de errores realista.
 
 - [FoodExpressAPI](https://github.com/victorgm0502-del/FoodExpressAPI)  
   API REST para gestión de pedidos de comida, con autenticación, control de stock y estructura modular.
