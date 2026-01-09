@@ -14,10 +14,10 @@ Desarrollador full-stack en formación, especializado en el diseño e implementa
 ## 🛠️ Tecnologías dominadas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="https://github.com/Mugicat05/Tienda-HSN-React-and-Node" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="[Angular](https://github.com/Mugicat05/Tienda-HSN-React-and-Angular)" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="[https://github.com/Mugicat05/Tienda-HSN-React-and-Node](https://github.com/Mugicat05/Tienda-HSN-React-and-Node)" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="[MongoDB](https://github.com/Mugicat05/FoodExpressAPI)" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="[JWT](https://github.com/Mugicat05/FoodExpressAPI)" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
