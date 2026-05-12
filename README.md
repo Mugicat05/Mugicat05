@@ -159,22 +159,17 @@ API REST modular para gestión de pedidos, autenticación y control de stock.
 - Seguridad JWT
 
 ---
-
 # 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=Mugicat05&show_icons=true&theme=tokyonight&hide_border=true&border_radius=25"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mugicat05&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&border_radius=20"/>
 
-<img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mugicat05&theme=tokyonight&hide_border=true&border_radius=25"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mugicat05&theme=radical&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&border_radius=20"/>
 
-</div>
+<br><br>
 
----
-
-<div align="center">
-
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugicat05&layout=compact&theme=tokyonight&hide_border=true&border_radius=25"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugicat05&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&border_radius=20"/>
 
 </div>
 
@@ -184,17 +179,17 @@ API REST modular para gestión de pedidos, autenticación y control de stock.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mugicat05&theme=tokyo-night&hide_border=true&radius=16"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mugicat05&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true&radius=16"/>
 
 </div>
 
 ---
 
-# 🧬 CONTRIBUTION SNAKE
+# 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
