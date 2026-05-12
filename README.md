@@ -262,13 +262,6 @@ Runtime Analysis
 </div>
 
 ---
-
-# ⚡ THE FINAL TOUCH
-
-<div align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" />
-
 <br><br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&color=0:000000,25:0B1026,50:111827,75:1E1B4B,100:050816" />
