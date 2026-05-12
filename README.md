@@ -1,6 +1,80 @@
+# 🚀 GITHUB ANALYTICS
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:24243e&text=Víctor%20Gómez%20Molina&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20·%20Backend%20Engineer%20·%20API%20Architect&descAlignY=55"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Mugicat05&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1"/>
+
+<br><br>
+
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Mugicat05&show_icons=true&count_private=true&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&border_radius=25"/>
+
+<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Mugicat05&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8b949e&sideLabels=8b949e&border_radius=25"/>
+
+<br><br>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugicat05&layout=compact&hide_border=true&title_color=00F7FF&text_color=c9d1d9&bg_color=0d1117&border_radius=25"/>
+
+</div>
+
+---
+
+# ⚡ DEVELOPMENT ACTIVITY
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mugicat05&custom_title=Víctor%20Gómez%20Molina%20·%20Activity%20Graph&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true&radius=20"/>
+
+</div>
+
+---
+
+# 🧠 CONTRIBUTION MATRIX
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🛰️ PROFILE OVERVIEW
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mugicat05&theme=github_dark"/>
+
+</div>
+
+---
+
+# ⚔️ ADVANCED STATS
+
+<div align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mugicat05&theme=github_dark"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mugicat05&theme=github_dark"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mugicat05&theme=github_dark&utcOffset=1"/>
+
+</div>
+
+---
+
+# 🔥 CODING STATUS
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00F7FF?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/FOCUS-FULLSTACK-black?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/BACKEND-NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/FRONTEND-ANGULAR-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/DATABASE-MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 </div>
 
@@ -8,43 +82,6 @@
 
 <div align="center">
 
-# ⚡ FULL STACK DEVELOPER
-
-### Especializado en arquitecturas modernas, APIs seguras y sistemas escalables
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Node.js+%7C+Express+%7C+MongoDB;Angular+%7C+React+%7C+JWT+Authentication;REST+API+Architecture;Clean+Code+%7C+Scalable+Systems;Backend+Engineering+%7C+Frontend+Integration" />
-
-<br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mugicat05&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/Mugicat05?style=for-the-badge&logo=github&color=171515"/>
-  <img src="https://img.shields.io/github/stars/Mugicat05?style=for-the-badge&logo=github&color=302b63"/>
-  <img src="https://img.shields.io/badge/Focus-Clean_Architecture-blueviolet?style=for-the-badge"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0f0c29,50:302b63,100:24243e&section=footer"/>
 
 </div>
-
----
-
-# 🧠 SYSTEM.INFO
-
-```yaml
-name: Víctor Gómez Molina
-role: Full Stack Developer
-specialization:
-  - Backend Architecture & REST APIs
-  - JWT Authentication & Security
-  - MongoDB Persistence
-  - Angular & React Frontends
-
-current_focus:
-  - Clean Architecture & Best Practices
-  - High-Performance Secure Systems
-  - Scalable Microservices
-  - Modern UI/UX Design Implementation
-
-philosophy:
-  - "Write maintainable, readable, and clean code."
-  - "Technical consistency across the entire stack."
-  - "Build scalable systems from day one."
